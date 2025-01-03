@@ -6,7 +6,8 @@ tags: [daily]
 ---
 
 
-# Hello, welcome to my first Jekyll Blog
+# Hello, welcome to my first Blog using Jekyll
 
 This is my personal blog!
+\\
 WELCOME
